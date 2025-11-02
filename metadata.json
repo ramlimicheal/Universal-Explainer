@@ -1,0 +1,5 @@
+{
+  "name": "Universal Explainer",
+  "description": "An AI-powered tool that takes any transcript or text and breaks it down into a multi-layered, comprehensive explanation suitable for learners of all levels. It generates everything from ELI5 analogies to technical deep-dives, glossaries, and practical examples.",
+  "requestFramePermissions": []
+}
